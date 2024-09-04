@@ -13,6 +13,8 @@ I forrige helg bø derimot muligheten til å nå igjennoppta språket seg.
 
 ### Innen dag 3: Grunnleggende Java
 
+- Scope:
+
 **Mål:** Forstå grunnleggende Java-konsepter.
 
 **Aktiviteter:**
