@@ -6,7 +6,8 @@ Dette dokumentet er for personlig bruk, til å lære å utvikle i Java i løpet 
 
 ## Bakgrunn
 
-Jeg har ikke kodet Java siden Version 8, Eclipse og WindowBuilder var "the shit". I forrige helg bø muligheten for å nå igjennoppta språket.
+Jeg har ikke kodet Java siden Version 8, Eclipse og WindowBuilder var populært. 
+I forrige helg bø derimot muligheten til å nå igjennoppta språket seg.
 
 ## Plan
 
